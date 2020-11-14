@@ -1,8 +1,4 @@
 ### Hi there 👋
-
-<!--
-**calinvasileandrei/calinvasileandrei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 My name is Andrei and I'm currently a Computer Engineer student 🎓 at Elis College in association with Politecnico di Milano.
 
 I live in Italy📍, Rome and I enjoy developing websites, mobile apps and backend applications 💻 . 
