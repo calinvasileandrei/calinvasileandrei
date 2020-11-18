@@ -1,3 +1,9 @@
+```css
+  *{
+    background-color:#141321;
+  }
+```
+
 ### Hi there 👋
 My name is Andrei and I'm currently a Computer Engineer student 🎓 at Elis College in association with Politecnico di Milano.
 
