@@ -1,9 +1,4 @@
-```css
-  *{
-    background-color:#141321;
-  }
-```
-
+<span style="backgroud-color:#141321;">
 ### Hi there 👋
 My name is Andrei and I'm currently a Computer Engineer student 🎓 at Elis College in association with Politecnico di Milano.
 
@@ -17,5 +12,5 @@ I really like create and experiment new things !
 - 💬 Ask me about anything 
 - 📫 How to reach me: calinvasileandrei@gmail.com
 - 😄 Nikname: Andrew 
-
+</span>
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=calinvasileandrei&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
