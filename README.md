@@ -1,11 +1,7 @@
-
-<!-- Hex color -->
-![bg](#141321)
-
 ### Hi there 👋
-My name is Andrei and I'm currently a Computer Engineer student 🎓 at Elis College in association with Politecnico di Milano.
+My name is <b>Andrei</b> and I'm currently a Computer Engineer student 🎓 at <b>Elis College</b> in association with <b>Politecnico di Milano</b>.
 
-I live in Italy📍, Rome and I enjoy developing websites, mobile apps and backend applications 🖥 <br>
+I live in <b>Italy</b>📍, Rome and I enjoy developing websites, mobile apps and backend applications 🖥 <br>
 During the last year I've done two intershipsin in two of the biggest company in Italy , Enel and Tim - TrustTecnologies 🖥 <br>
 I really like create and experiment new things !
 
