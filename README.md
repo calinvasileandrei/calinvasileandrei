@@ -5,11 +5,13 @@ I live in <b>Italy</b>📍, Rome and I enjoy developing websites, mobile apps an
 During the last year I've done two intershipsin in two of the biggest company in Italy , Enel and Tim - TrustTecnologies 🖥 <br>
 I really like create and experiment new things !
 
+
 ## About me 🎓
 My name is Andrei Calin, I'm 20 and I speak fluently <br> 3 languages </br>: 
 Italian 🇮🇹, Romanian 🇷🇴 and English 🇬🇧
 Since I was child I liked computer and repeted to my self what I wanted to become a scientist as a child I didn't know what it meant but sounded cool.
 During the years I've done a lot of certifications, achivements, meetings, working experience and even an Erasmus+.
+
 
 # Let's explore them breafly:
   - Eipass Web Master Certification (2016)
@@ -30,6 +32,7 @@ During the years I've done a lot of certifications, achivements, meetings, worki
   - Intership at TIM - Trust Technologies - Defence (2019)
   - English TOEFL 92/120 Certification (2020)
   - And many more soon 🤓
+  
 
 # School 📚
 My school career has always gone well, and I'm really happy about my goals, I've got my diploma in 2019 at ITT Leonardo Da Vinci (Computer science) and now I'm at my second year of Unisersity (Politecnico di Milano) Computer Engineering and in addition I'm also a Elis College student which help me increasing my Soft-Skills with a 2 years full-immersion college plan and my Hard-Skills by offering me well prepareted courses, teachers and more!
@@ -41,16 +44,20 @@ My school career has always gone well, and I'm really happy about my goals, I've
   - Music
   - Recently discovered Formula 1
   
+  
 # My Favorite Technologies:
   - Flutter and Dart 💙
   - Vue js 💚
   - Java ☕️
   - Python 🐍
+  
 
 # Technologies, Frameworks, Librarys and Languages I know:
-  - PHP , C++ , C# , Python , Java , Dart , JavaScript , TypeScript , Flask, React , Angular (work in progress), Vue, Bootstrap, CSS , HTML , GIT 
-  - Firebase, Google Cloud Platform, Linux, Docker , AWS 
-    
+  - PHP , C++ , C# , Python , Java , Dart , JavaScript , TypeScript , Flask, React , Angular (work in progress), Vue, 
+  - Firebase, Google Cloud Platform, Linux, Docker , AWS , Bootstrap, CSS , HTML , GIT 
+
+
+# Now
 - 🔭 I’m currently working on small side projects
 - 🌱 I’m currently learning Angular
 - 👯 I’m looking to collaborate on ??
