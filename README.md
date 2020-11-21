@@ -7,8 +7,8 @@ I really like create and experiment new things !
 
 
 ## About me 🎓
-My name is Andrei Calin, I'm 20 and I speak fluently <br> 3 languages </br>: 
-Italian 🇮🇹, Romanian 🇷🇴 and English 🇬🇧
+My name is Andrei Calin, I'm 20 and I speak fluently <b>3 languages</b>: <br>
+Italian 🇮🇹, Romanian 🇷🇴 and English 🇬🇧 <br> 
 Since I was child I liked computer and repeted to my self what I wanted to become a scientist as a child I didn't know what it meant but sounded cool.
 During the years I've done a lot of certifications, achivements, meetings, working experience and even an Erasmus+.
 
