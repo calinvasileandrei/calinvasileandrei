@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 My name is <b>Andrei</b> and I'm currently a Computer Engineer student 🎓 at <b>Elis College</b> in association with <b>Politecnico di Milano</b>.
 
 I live in <b>Italy</b>📍, Rome and I enjoy developing websites, mobile apps and backend applications 🖥 <br>
@@ -13,7 +13,7 @@ Since I was child I liked computer and repeted to my self what I wanted to becom
 During the years I've done a lot of certifications, achivements, meetings, working experience and even an Erasmus+.
 
 
-# Let's explore them breafly:
+### Let's explore them breafly:
   - Eipass Web Master Certification (2016)
   - Developer and VideoMaker for Editions SRL (2017)
   - Frontend Developer for KDS Store, Viterbo (2017)
@@ -34,30 +34,30 @@ During the years I've done a lot of certifications, achivements, meetings, worki
   - And many more soon 🤓
   
 
-# School 📚
+### School 📚
 My school career has always gone well, and I'm really happy about my goals, I've got my diploma in 2019 at ITT Leonardo Da Vinci (Computer science) and now I'm at my second year of Unisersity (Politecnico di Milano) Computer Engineering and in addition I'm also a Elis College student which help me increasing my Soft-Skills with a 2 years full-immersion college plan and my Hard-Skills by offering me well prepareted courses, teachers and more!
 
 
-# My Passions 🎨: 
+### My Passions 🎨: 
   - ESports 
   - VideoMaking
   - Music
   - Recently discovered Formula 1
   
   
-# My Favorite Technologies:
+### My Favorite Technologies:
   - Flutter and Dart 💙
   - Vue js 💚
   - Java ☕️
   - Python 🐍
   
 
-# Technologies, Frameworks, Librarys and Languages I know:
+### Technologies, Frameworks, Librarys and Languages I know:
   - PHP , C++ , C# , Python , Java , Dart , JavaScript , TypeScript , Flask, React , Angular (work in progress), Vue, 
   - Firebase, Google Cloud Platform, Linux, Docker , AWS , Bootstrap, CSS , HTML , GIT 
 
 
-# Now
+## Now
 - 🔭 I’m currently working on small side projects
 - 🌱 I’m currently learning Angular
 - 👯 I’m looking to collaborate on ??
