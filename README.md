@@ -47,7 +47,7 @@ My school career has always gone well, and I'm really happy about my goals, I've
   
 ### My Favorite Technologies:
   - Flutter and Dart 💙
-  - Vue js 💚
+  - React ⚛
   - Java ☕️
   - Python 🐍
   
