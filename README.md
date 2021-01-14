@@ -45,6 +45,7 @@ My school career has always gone well, and I'm really happy about my goals, I've
   - VideoMaking
   - Music
   - Recently discovered Formula 1
+  - Tv Series & Films
   
   
 ### My Favorite Technologies:
