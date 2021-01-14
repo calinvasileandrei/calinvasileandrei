@@ -26,11 +26,13 @@ During the years I've done a lot of certifications, achivements, meetings, worki
   - One of the winners of Bologna Festival Il Cinema Ritrovato (2019)
   - Erasmus+ self-driving drone project: Bordeaux France - Istanbul Turkey (2018-2019)
   - Cisco CCENT RSE Certification (2019)
-  - Amazon AWS Foundation Course (2019)
-  - Java OCA Course (2019)
-  - Intership at Enel - Green Power (2019)
-  - Intership at TIM - Trust Technologies - Defence (2019)
+  - Amazon AWS Foundation Course (2020)
+  - Java OCA Course (2020)
+  - Intership at Enel - Green Power (2020)
+  - Intership at TIM - Trust Technologies - Defence (2020)
+  - Developed a Covid19 Tracker app on github with preview(FullStack)(2020)
   - English TOEFL 92/120 Certification (2020)
+  - Developed a Clothe manger app named Stylish on github with preview (FullStack) (2021)
   - And many more soon 🤓
   
 
