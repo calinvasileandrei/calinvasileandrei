@@ -56,13 +56,13 @@ My school career has always gone well, and I'm really happy about my goals, I've
   
 
 ### Technologies, Frameworks, Librarys and Languages I know:
-  - PHP , C++ , C# , Python , Java , Dart , JavaScript , TypeScript , Flask, React , Angular (work in progress), Vue, 
+  - PHP , C++ , C# , Python , Java , Dart , JavaScript , TypeScript , Flask, React , Angular, Vue, 
   - Firebase, Google Cloud Platform, Linux, Docker , AWS , Bootstrap, CSS , HTML , GIT 
 
 
 ## Now
-- 🔭 I’m currently working on small side projects
-- 🌱 I’m currently learning Angular
+- 🔭 I’m currently working for SOLDO
+- 🌱 I’m currently mastering Flutter
 - 👯 I’m looking to collaborate on ??
 - 💬 Ask me about anything 
 - 📫 How to reach me: calinvasileandrei@gmail.com
