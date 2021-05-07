@@ -70,5 +70,8 @@ My school career has always gone well, and I'm really happy about my goals, I've
 
 
   If you've come this far with the reading I want to thank you for your time/support.
+  
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=calinvasileandrei&layout=compact&hide=html" alt="calinvasileandrei" /></p>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=calinvasileandrei&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
