@@ -1,17 +1,17 @@
 # Hi there 👋
-My name is <b>Andrei</b> and I'm currently a Computer Engineer student 🎓 at <b>Elis College</b> in association with <b>Politecnico di Milano</b>.
+My name is <b>Andrei</b> and I just graduated in Computer Engineer 🎓 at <b>Elis College</b> in association with <b>Politecnico di Milano</b>.
 
 I live in <b>Italy</b>📍, Rome and I enjoy developing websites, mobile apps and backend applications 🖥 <br>
-During the last year I've done two intershipsin in two of the biggest company in Italy , Enel and Tim - TrustTecnologies 🖥 <br>
-I really like create and experiment new things !
+During the last years I've done three intershipsin in two of the biggest company in Italy , Enel and Tim - TrustTecnologies 🖥  and one at SOLDO wich is my current company where I've been working since september 2021 first part-time and now full-time.<br>
+That isn't all, I also do freelancing for a few different businesses, u never stop learning and exploring new paths!
+I really like create and experiment new things, so let's go !
 
 
 ## About me 🎓
-My name is Andrei Calin, I'm 20 and I speak fluently <b>3 languages</b>: <br>
+My name is Andrei Calin, I'm 22 and I speak fluently <b>3 languages</b>: <br>
 Italian 🇮🇹, Romanian 🇷🇴 and English 🇬🇧 <br> 
 Since I was child I liked computer and repeted to my self what I wanted to become a scientist as a child I didn't know what it meant but sounded cool.
 During the years I've done a lot of certifications, achivements, meetings, working experience and even an Erasmus+.
-
 
 ### Let's explore them breafly:
   - Eipass Web Master Certification (2016)
@@ -33,11 +33,17 @@ During the years I've done a lot of certifications, achivements, meetings, worki
   - Developed a Covid19 Tracker app on github with preview(FullStack)(2020)
   - English TOEFL 92/120 Certification (2020)
   - Developed a Clothe manger app named Stylish on github with preview (FullStack) (2021)
+  - Web Developer Angular Course (2021)
+  - Introduction to Machine Learning Course (2021)
+  - Front End Software Engineer Part Time Job at SOLDO (2021)
+  - Introduction to Docker Course (2022)
+  - Mobile Developer Flutter Course (2022)
+  - Mobile Software Engineer Full Time Job at Soldo (2022)
   - And many more soon 🤓
   
 
 ### School 📚
-My school career has always gone well, and I'm really happy about my goals, I've got my diploma in 2019 at ITT Leonardo Da Vinci (Computer science) and now I'm at my second year of Unisersity (Politecnico di Milano) Computer Engineering and in addition I'm also a Elis College student which help me increasing my Soft-Skills with a 2 years full-immersion college plan and my Hard-Skills by offering me well prepareted courses, teachers and more!
+My school career has always gone really well, and I'm really happy about my goals, I've got my diploma in 2019 at ITT Leonardo Da Vinci (Computer science) and now I also got my bachelor degree in Computer Engineering at Unisersity (Politecnico di Milano) and in addition I was also a Elis College student which help me increasing my Soft-Skills with a 2 years full-immersion college plan and my Hard-Skills by offering me well prepareted courses, teachers and more!
 
 
 ### My Passions 🎨: 
@@ -46,11 +52,12 @@ My school career has always gone well, and I'm really happy about my goals, I've
   - Music
   - Recently discovered Formula 1
   - Tv Series & Films
+  - Gym
   
   
 ### My Favorite Technologies:
+  - React and Typescript ⚛
   - Flutter and Dart 💙
-  - React ⚛
   - Java ☕️
   - Python 🐍
   
@@ -62,7 +69,7 @@ My school career has always gone well, and I'm really happy about my goals, I've
 
 ## Now
 - 🔭 I’m currently working for SOLDO
-- 🌱 I’m currently mastering Flutter
+- 🌱 I’m currently mastering React Native
 - 👯 I’m looking to collaborate on ??
 - 💬 Ask me about anything 
 - 📫 How to reach me: calinvasileandrei@gmail.com
